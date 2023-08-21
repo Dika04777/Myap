@@ -1,7 +1,7 @@
 const fs = require('fs')
 
-global.creator ="cc_12dika"// yourname
-global.MONGO_DB_URI = "mongodb+srv://dika04777:<Fr3kCx7y6gD8MQXH>@cluster0.9hvlcbx.mongodb.net/?retryWrites=true&w=majority" //database mongodb 
+global.creator ="cc-12dika"// yourname
+global.MONGO_DB_URI = "mongodb+srv://dika04777:<Fr3kCx7y6gD8MQXH>@cluster0.9hvlcbx.mongodb.net/" //database mongodb 
 global.ACTIVATION_TOKEN_SECRET = "-@Pqnap+@(/1jAPPnew/@10" //isi apa aja bebas
 global.your_email = "dika04777@gmail.com" //email
 global.email_password = "dikaaja123" //application password email
